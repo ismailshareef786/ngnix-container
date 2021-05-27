@@ -24,4 +24,5 @@
 
   type: NodePort
 
+
 status:
