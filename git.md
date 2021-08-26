@@ -3,7 +3,7 @@
  *metadata* 
   <creationTimestamp>: null
 
-  ``labels``
+  ``labels NOTEPAD``
 
  [app](https://notepad-plus-plus.org/downloads/) 
 
@@ -14,7 +14,7 @@
   ports:
  %% -13,7 +13,7 22 @@ spec:
     protocol: TCP
-    targetPort: 80
+    targetPort: 100
 
 **selector**
 ``coding``
